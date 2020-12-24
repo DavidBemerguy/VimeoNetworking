@@ -11,6 +11,6 @@ let package = Package(
     targets: [
         .target(
             name: "VimeoNetworking",
-            path: "VimeoNetworking/Sources")
+            path: "Sources")
     ]
 )
