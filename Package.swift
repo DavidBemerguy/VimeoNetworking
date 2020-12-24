@@ -12,7 +12,7 @@ let package = Package(
         .package(
             name: "OHHTTPStubs/Swift",
             url: "https://github.com/AliSoftware/OHHTTPStubs.git",
-            .exact(from: "8.0.0")
+            .exact("8.0.0")
         )
     ],
     targets: [
